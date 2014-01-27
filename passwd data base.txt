@@ -1,0 +1,2 @@
+user : c##DBproject
+password : password
